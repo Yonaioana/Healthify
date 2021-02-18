@@ -1,2 +1,2 @@
-# Hack-n-Heal
+# Healthify
 Hack &amp; Heal Hackathon
