@@ -6,7 +6,7 @@
                         <div class="col-xl-3 col-lg-3">
                             <div class="logo-img">
                                 <a href="index.php">
-                                    <img src="img/logo2.png" alt="" id="logo">
+                                    <img src="img/logo2.png" alt="" class="logo">
                                 </a>
                             </div>
                         </div>
@@ -18,16 +18,10 @@
                                             <ul id="navigation">
                                                 <li><a href="index.php">home</a></li>
                                                 <li><a href="about.php">About</a></li>
-                                                <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                    <ul class="submenu">
-                                                        <li><a href="blog.php">blog</a></li>
-                                                        <li><a href="single-blog.php">single-blog</a></li>
-                                                    </ul>
-                                                </li>
                                                 <li><a href="#">pages <i class="ti-angle-down"></i></a>
                                                     <ul class="submenu">
-                                                        <li><a href="department.php">Deportment</a></li>
-                                                        <li><a href="elements.php">elements</a></li>
+                                                        <li><a href="department.php">Departments</a></li>
+                                                        <li><a href="elements.php">Elements</a></li>
                                                     </ul>
                                                 </li>
                                                 <li><a href="contact.php">Contact</a></li>
@@ -50,3 +44,4 @@
             </div>
         </div>
     </header>
+
